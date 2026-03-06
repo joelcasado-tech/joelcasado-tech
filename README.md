@@ -4,7 +4,7 @@
 
 I am a **DAW (Web Application Development)** graduate based in Barcelona, focused on bridging the gap between complex technical logic and real-world business value. 
 
-While many focus solely on "writing code," I focus on architecting solutions, leveraging AI, automation, and modern web stacks to solve high-impact bottlenecks for organizations.
+While many focus solely on writing code, I focus on architecting solutions, leveraging AI, automation, and modern web stacks to solve high-impact bottlenecks for organizations.
 
 ---
 
@@ -15,15 +15,6 @@ I specialize in translating "business pain" into "technical features." Whether i
 - 🌍 **Bilingual:** Native Spanish | Full Professional English.
 - 🤖 **AI Integration:** Focused on integrating LLMs (OpenAI, DeepSeek, Mistral) into automated business workflows.
 - 🏗️ **Full-Stack Logic:** Strong foundation in DAW principles, APIs, and Database Management.
-
----
-
-## 🚀 Current Focus: The AI Automation Lab
-
-I am currently building a series of "Business-First" applications to demonstrate the power of AI in modern sales and operations:
-
-- **Custom CRM Integrations:** Connecting fragmented web tools into a single source of truth.
-- **Technical Enablement:** I enjoy mentoring and "translating" code for non-technical stakeholders—making tech accessible to everyone.
 
 ---
 
@@ -44,6 +35,3 @@ I am looking to join a forward-thinking team in the **EMEA region** as an **Asso
 
 - 📧 **Email:** joelcasado.tech@gmail.com
 - 📍 **Location:** Barcelona, Spain (Open to Remote/Hybrid)
-
----
-*"The best code is the code that solves a problem before it even starts."*
